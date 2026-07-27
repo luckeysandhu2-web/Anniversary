@@ -3,24 +3,24 @@ const relationshipStartDate = "2025-07-28T00:00:00";
 const SURPRISE_PASSWORD = "thedribblescafe07082025";
 
 const galleryPhotos = [
-  { src: "image/Love.jpg", caption: "Add a caption here", date: "16th November 2025" },
-  { src: "image/Love1.jpg", caption: "Add a caption here", date: "15th January 2026" },
-  { src: "image/Love2.jpg", caption: "Add a caption here", date: "1st November 2025" },
-  { src: "image/Love3.jpg", caption: "Add a caption here", date: "1st November 2025" },
-  { src: "image/Love4.jpg", caption: "Add a caption here", date: "1st November 2025" },
-  { src: "image/Love5.jpg", caption: "Add a caption here", date: "1st November 2025" },
-  { src: "image/Love6.jpg", caption: "Add a caption here", date: "16th November 2025" },
-  { src: "image/Love7.jpeg", caption: "Add a caption here", date: "15th January 2026" },
-  { src: "image/Love8.jpeg", caption: "Add a caption here", date: "21st May 2026" },
-  { src: "image/Love9.jpeg", caption: "Add a caption here", date: "21st May 2026" },
-  { src: "image/Love10.jpg", caption: "Add a caption here", date: "21st March 2026" },
+  { src: "Love.jpg", caption: "Add a caption here", date: "16th November 2025" },
+  { src: "Love1.jpg", caption: "Add a caption here", date: "15th January 2026" },
+  { src: "Love2.jpg", caption: "Add a caption here", date: "1st November 2025" },
+  { src: "Love3.jpg", caption: "Add a caption here", date: "1st November 2025" },
+  { src: "Love4.jpg", caption: "Add a caption here", date: "1st November 2025" },
+  { src: "Love5.jpg", caption: "Add a caption here", date: "1st November 2025" },
+  { src: "Love6.jpg", caption: "Add a caption here", date: "16th November 2025" },
+  { src: "Love7.jpeg", caption: "Add a caption here", date: "15th January 2026" },
+  { src: "Love8.jpeg", caption: "Add a caption here", date: "21st May 2026" },
+  { src: "Love9.jpeg", caption: "Add a caption here", date: "21st May 2026" },
+  { src: "Love10.jpg", caption: "Add a caption here", date: "21st March 2026" },
 ];
 
 const videoMemories = [
-  { title: "Our First Dance", date: "16th November 2025", src: "image/Dance1.mp4", poster: "image/Dance2.png" },
-  { title: "Mastii", date: "28th February 2026", src: "image/Uss1.mp4", poster: "image/Love11.jpeg" },
-  { title: "My eyes always love watching you", src: "image/Uss2.mp4", poster: "image/Love12.png" },
-  { title: "My beautiful princess", src: "image/Uss3.mp4", poster: "image/Love13.jpg" },
+  { title: "Our First Dance", date: "16th November 2025", src: "Dance1.mp4", poster: "Dance2.png" },
+  { title: "Mastii", date: "28th February 2026", src: "Uss1.mp4", poster: "Love11.jpeg" },
+  { title: "My eyes always love watching you", src: "Uss2.mp4", poster: "Love12.png" },
+  { title: "My beautiful princess", src: "Uss3.mp4", poster: "Love13.jpg" },
 ];
 
 const reasons = [
@@ -79,9 +79,9 @@ const bucketItems = [
 ];
 
 const songs = [
-  { title: "Humsafar", reason: "Whenever i hear this song with you on meet or calls, i always feel your presence with me.", cover: "image/Song1.jpg", audio: "image/Humsafar.mp3" },
-  { title: "Leja", reason: "This is one of your favorite songs, while listening to this song i always get a pure feeling for us for our future.", cover: "image/Song2.jpeg", audio: "image/Leja.mp3" },
-  { title: "Tu Thodi der", reason: "Every time I listen to this song, all I want is to spend more time with you. Even if we've already been together a long time, it still never feels like enough—I just want to be with you a little longer.", cover: "image/Song3.jpg", audio: "image/Tu Thodi Der.mp3" },
+  { title: "Humsafar", reason: "Whenever i hear this song with you on meet or calls, i always feel your presence with me.", cover: "Song1.jpg", audio: "Humsafar.mp3" },
+  { title: "Leja", reason: "This is one of your favorite songs, while listening to this song i always get a pure feeling for us for our future.", cover: "Song2.jpeg", audio: "Leja.mp3" },
+  { title: "Tu Thodi der", reason: "Every time I listen to this song, all I want is to spend more time with you. Even if we've already been together a long time, it still never feels like enough—I just want to be with you a little longer.", cover: "Song3.jpg", audio: "Tu Thodi Der.mp3" },
 ];
 
 const surprisePhotos = [
