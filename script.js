@@ -700,6 +700,10 @@ function startFireworks() {
 // (a small backend, Firebase, a form service, etc.) if you want messages
 // from other people to actually persist and be visible to everyone.
 let guestEntries = [
+  { name: "Kavneet", message: "Happy 1 year to you both, lucky & Prayagi! 💖✨ It’s so beautiful to see your love grow over this year. The way you both care, understand, and stand by each other makes your bond truly special. May this is just the beginning of many more years filled with love, happiness, and amazing memories together 🥂💕 Lots of love from both of us 💫❤️ Kavneet and Vikrant 🌸❤️", liked: false},
+  { name: "Bhavya", message: "The duo nobody can replace. Wishing you both all the happiness and soft moments. 💌", liked: false},
+  { name: "Mahi", message: "Two hearts, one beautiful story. Wishing you both all the love, peace, and happiness you deserve. ✨💕", liked: false},
+  
 ];
 
 function initGuestBook() {
